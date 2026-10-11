@@ -1,7 +1,3 @@
-# portfolio
-# 
-I'm a Master of Information Technology (Applied AI) student at Macquarie University, with experience in front-end development and an interest in applying AI to real-world problems.
-
 ## Projects
 
 ### 1. Computer Vision — Object Detection & Image Segmentation
