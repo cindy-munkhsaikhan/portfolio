@@ -1,6 +1,6 @@
 ## Coursework Projects
 
-### 1. Computer Vision — Object Detection & Image Segmentation
+### PROJECT 1. Computer Vision — Object Detection & Image Segmentation
 
 **Course:** Deep Learning
 
@@ -34,7 +34,7 @@ The models were able to identify some litter objects, but performance was limite
 
 This project helped me understand transfer learning, model evaluation, and the challenges of applying computer vision to real-world images.
 
-### 2. Natural Language Processing — Text Classification
+### PROJECT 2. Natural Language Processing — Text Classification
 
 **Course:** Natural Language Processing
 
