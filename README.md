@@ -1,11 +1,6 @@
-## Projects
+## Coursework Projects
 
 ### 1. Computer Vision — Object Detection & Image Segmentation
-**Technologies:** Python, PyTorch, YOLOv8, U-Net, ResNet18
-
-- Fine-tuned YOLOv8 for object detection.
-- Implemented U-Net with ResNet18 for image segmentation.
-- Evaluated model performance using mAP, Dice and IoU.
 
 **Course:** Deep Learning
 
@@ -39,11 +34,19 @@ The models were able to identify some litter objects, but performance was limite
 
 This project helped me understand transfer learning, model evaluation, and the challenges of applying computer vision to real-world images.
 
+### 2. Natural Language Processing — Text Classification
 
-## Project 2: Natural Language Processing — Text Classification
+**Course:** Natural Language Processing
 
 **Technologies:** Python, Scikit-learn, TF-IDF,
-Logistic Regression, Linear SVM
+Naive Bayes, Logistic Regression, Linear SVM
+
+### Project Overview
+
+This coursework project explores text classification
+using machine learning. I trained and compared
+different models to classify text as Safe or Unsafe,
+and also explored classification into 15 categories.
 
 ### Model Performance Comparison
 
