@@ -34,6 +34,9 @@ The models were able to identify some litter objects, but performance was limite
 
 This project helped me understand transfer learning, model evaluation, and the challenges of applying computer vision to real-world images.
 
+
+
+
 ### PROJECT 2. Natural Language Processing — Text Classification
 
 **Course:** Natural Language Processing
