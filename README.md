@@ -1,6 +1,11 @@
-## Coursework Projects
+## Projects
 
-### PROJECT 1. Computer Vision — Object Detection & Image Segmentation
+### 1. Computer Vision — Object Detection & Image Segmentation
+**Technologies:** Python, PyTorch, YOLOv8, U-Net, ResNet18
+
+- Fine-tuned YOLOv8 for object detection.
+- Implemented U-Net with ResNet18 for image segmentation.
+- Evaluated model performance using mAP, Dice and IoU.
 
 **Course:** Deep Learning
 
@@ -34,20 +39,11 @@ The models were able to identify some litter objects, but performance was limite
 
 This project helped me understand transfer learning, model evaluation, and the challenges of applying computer vision to real-world images.
 
----
 
 ## Project 2: Natural Language Processing — Text Classification
 
-**Course:** Natural Language Processing
-
-**Technologies:** Python, Scikit-learn, TF-IDF, Naive Bayes, Logistic Regression, Linear SVM
-
-### Project Overview
-
-This coursework project explores text classification
-using machine learning. I trained and compared
-different models to classify text as Safe or Unsafe,
-and also explored classification into 15 categories.
+**Technologies:** Python, Scikit-learn, TF-IDF,
+Logistic Regression, Linear SVM
 
 ### Model Performance Comparison
 
@@ -68,12 +64,33 @@ examples but struggled with some unsafe categories.
 
 ![Text Classification Results](text_prediction_analysis.png)
 
-
 ---
 
-## Project 3: Front-End Development
-**Technologies:** Next.js, React, JavaScript, Tailwind CSS
+## Project 3: Front-End Web Development — Catalyst Fund
 
-- Developed interactive features for the Catalyst Fund website.
-- Improved user experience through responsive design and front-end development.
-  
+**Type:** Professional Project | Front-End Development Internship
+
+**Technologies:** Next.js, React, Tailwind CSS, JavaScript
+
+### Project Overview
+
+I collaborated with another front-end developer to complete the project and deliver the website on time.
+
+### My Contributions
+
+- Developed responsive web pages and interactive features using Next.js.
+- Worked on front-end components and website layouts.
+- Collaborated with another developer to integrate our work.
+- Helped resolve integration issues before the project deadline.
+
+### Challenges and Lessons Learned
+
+One challenge was integrating our work near the project deadline, which caused unexpected issues. We worked together to resolve the problems and complete the website on time.
+
+This experience taught me the importance of communication, teamwork and coordinating code changes during software development.
+
+### Live Website
+
+[Catalyst Fund — View Website](https://www.otcatalystfund.mn/)
+![Catalyst Fund Website](catalyst_website.png)
+
