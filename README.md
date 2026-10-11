@@ -15,7 +15,7 @@ I used, my contributions and what I learned.
 1. [Computer Vision — Object Detection & Image Segmentation](#project-1-computer-vision--object-detection--image-segmentation)
 2. [Natural Language Processing — Text Classification](#project-2-natural-language-processing--text-classification)
 3. [Front-End Web Development — Catalyst Fund](#project-3-front-end-web-development--catalyst-fund)
-4. [Python Programming — UC Berkeley CS61A](#project-4-python-programming--uc-berkeley-cs61a)
+4. [Python Programming — UC Berkeley CS61A](#project-4-uc-berkeley-Structure and Interpretation of Computer Programs)
 
 ---
 
