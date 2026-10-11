@@ -92,5 +92,5 @@ This experience taught me the importance of communication, teamwork and coordina
 ### Live Website
 
 [Catalyst Fund — View Website](https://www.otcatalystfund.mn/)
-![Catalyst Fund Website](catalyst_website.png)
+![Catalyst Fund Website](live_website.png)
 
