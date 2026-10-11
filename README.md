@@ -117,7 +117,7 @@ This experience taught me the importance of communication, teamwork and coordina
 
 ---
 
-## Project 4: Python Programming — UC Berkeley CS61A
+## Project 4: UC Berkeley — Structure and Interpretation of Computer Programs
 
 **Type:** Independent Coursework Practice | UC Berkeley CS61A
 
