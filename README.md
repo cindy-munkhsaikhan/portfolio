@@ -69,7 +69,9 @@ examples but struggled with some unsafe categories.
 ![Text Classification Results](text_prediction_analysis.png)
 
 
-### 3. Front-End Development
+---
+
+## Project 3: Front-End Development
 **Technologies:** Next.js, React, JavaScript, Tailwind CSS
 
 - Developed interactive features for the Catalyst Fund website.
