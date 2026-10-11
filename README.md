@@ -1,3 +1,24 @@
+# Technical Portfolio
+
+Welcome to my technical portfolio! I am a Master of
+Information Technology (Applied AI) student at
+Macquarie University, with academic experience in machine
+learning, computer vision, natural language
+processing and front-end development.
+
+This portfolio showcases selected academic and
+professional projects, including the technologies
+I used, my contributions and what I learned.
+
+## Projects
+
+1. [Computer Vision — Object Detection & Image Segmentation](#project-1-computer-vision--object-detection--image-segmentation)
+2. [Natural Language Processing — Text Classification](#project-2-natural-language-processing--text-classification)
+3. [Front-End Web Development — Catalyst Fund](#project-3-front-end-web-development--catalyst-fund)
+4. [Python Programming — UC Berkeley CS61A](#project-4-python-programming--uc-berkeley-cs61a)
+
+---
+
 ## Projects
 
 ### 1. Computer Vision — Object Detection & Image Segmentation
