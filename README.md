@@ -94,3 +94,70 @@ This experience taught me the importance of communication, teamwork and coordina
 [Catalyst Fund — View Website](https://www.otcatalystfund.mn/)
 ![Catalyst Fund Website](live_website.png)
 
+---
+
+## Project 4: Python Programming — UC Berkeley CS61A
+
+**Type:** Independent Coursework Practice | UC Berkeley CS61A
+
+**Technologies:** Python, Object-Oriented Programming,
+Recursion, Algorithms
+
+### Project Overview
+
+I worked on three programming projects from UC
+Berkeley's CS61A course using provided starter code.
+These projects helped me practise Python programming,
+problem-solving and implementing different algorithms.
+
+### 1. Ants vs. SomeBees — Tower Defense Game
+
+A strategy-based game where players place ants to
+defend their colony against bees.
+
+I worked on the Python backend, implementing different
+ant behaviours, attack mechanisms and game rules.
+This included creating ant classes with different
+abilities, managing interactions between ants and
+bees, and implementing the Queen Ant's special abilities.
+
+This project helped me understand object-oriented
+programming and class inheritance.
+
+![Ants Game](ants_game.png)
+
+### 2. Hog — Dice Game
+
+A turn-based dice game where two players compete
+to reach a target score.
+
+I implemented dice-rolling rules, scoring calculations
+and turn-based game logic. I also developed strategies
+for choosing how many dice to roll and used repeated
+simulations to compare outcomes.
+
+This project helped me practise functions, control
+flow and higher-order functions.
+
+![Hog Game](hog_game.png)
+
+### 3. Cats — Typing Test
+
+A typing test that measures typing speed and accuracy.
+
+I implemented paragraph selection, typing accuracy
+and words-per-minute calculations, and autocorrect
+functionality. I also worked on recursive algorithms
+to compare words and calculate edit distances.
+
+This project helped me practise string manipulation,
+recursion and algorithmic problem-solving.
+
+![Cats Typing Test](cats_game.png)
+
+### Challenges and Lessons Learned
+
+These projects strengthened my Python programming
+skills and helped me understand how to work with
+existing code, break down problems into smaller
+functions and debug different implementations.
